@@ -1,0 +1,9 @@
+version
+*******
+Python 3.11.x  (ML & DL)
+
+python3.11 -m venv venv
+
+source venv/bin/activate (Mac Book)
+venv\Scripts\activate (Windows)
+venv\Scripts\activate.psi (Ubuntu)
