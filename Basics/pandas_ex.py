@@ -1,18 +1,78 @@
 import pandas as pd
+data = {
+    "salesperson":["s1","s1","s2","s2"],
+    "product":["Laptop","Mobile","Laptop","Mobile"],
+    "sales":[50000,20000,60000,30000]
+}
+df = pd.DataFrame(data)
+df1 = pd.pivot_table(
+        df,
+        index="salesperson",
+        columns="product",
+        values="sales",
+        aggfunc="max",
+        margins=True
+)
+print("\nPivot Table\n")
+print(df1)
 
-df = pd.read_excel("Book2.xlsx")
-print(
-    df.groupby("Department")["Salary"].mean()
-)
-print(
-    df.groupby("Department")["Salary"].max()
-)
-print(
-    df.groupby("Department")["Salary"].min()
-)
-print(
-    df.groupby("Department")["Salary"].sum()
-)
+
+
+
+# import pandas as pd
+# data = {
+#     "salesperson":["s1","s1","s2","s2"],
+#     "product":["Laptop","Mobile","Laptop","Mobile"],
+#     "sales":[50000,20000,60000,30000]
+# }
+# df = pd.DataFrame(data)
+# df["sales"].mean()
+# df1 = pd.pivot_table(df,index="salesperson",columns="product",values="sales",aggfunc="mean")
+# print(df1)
+
+
+
+# df = pd.read_excel("p1.xlsx")
+# df1 = pd.pivot_table(df,index="Name",columns="Subject",values="Marks")
+# df1.to_excel("p2.xlsx")
+# df2 = pd.read_excel("p2.xlsx")
+# print(df2)
+
+
+# data = {
+#     "name":["Std1","Std2","Std3","Std4"],
+#     "marks":[60,70,80,35]
+# }
+# df = pd.DataFrame(data)
+# print("Average :",df["marks"].mean())
+# print("Maximum :",df["marks"].max())
+# print("Minimum :",df["marks"].min())
+# print("Sum :",df["marks"].sum())
+# print( df[df["marks"]<50] )
+
+
+
+# df1 = pd.read_excel("sheet1.xlsx")
+# df2 = pd.read_excel("sheet2.xlsx")
+# df3 = pd.merge(df1,df2,on="id")
+# df3.to_excel("output.xlsx",index=False)
+# output = pd.read_excel("output.xlsx")
+# print(output)
+
+
+# df = pd.read_excel("Book2.xlsx")
+# print(
+#     df.groupby("Department")["Salary"].mean()
+# )
+# print(
+#     df.groupby("Department")["Salary"].max()
+# )
+# print(
+#     df.groupby("Department")["Salary"].min()
+# )
+# print(
+#     df.groupby("Department")["Salary"].sum()
+# )
 
 #df = pd.read_excel("Book1.xlsx")
 #print(df)
