@@ -5,3 +5,4 @@ model = GaussianNB()
 model.fit(X,y)
 res = model.predict([[4]])
 print(res)
+

@@ -159,6 +159,14 @@
 			"typeName": "pointer"
 		},
 		{
+			"x": 20.833332505491068,
+			"y": -111.11110669595243,
+			"z": 1,
+			"meta": {},
+			"id": "camera:page:_t3YpJ-PuIJUWVuchGXR3",
+			"typeName": "camera"
+		},
+		{
 			"x": 1200.6327084743139,
 			"y": 3111.0454214895326,
 			"rotation": 0,
@@ -793,6 +801,48 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 118.32139587402344,
+			"y": 148.04144287109375,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:CiC6SSbibOenNqMjTGs1d",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 459.620849609375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Supervised                  Un.             Re"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:_t3YpJ-PuIJUWVuchGXR3",
+			"index": "a2o24ZeV",
+			"typeName": "shape"
+		},
+		{
 			"x": -74.34746295090054,
 			"y": 2337.7552835298243,
 			"rotation": 0,
@@ -933,9 +983,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 565.0140446706414,
-			"y": -4226.727620104999,
-			"z": 0.6287842885461096,
+			"x": -1665.1445666066497,
+			"y": -8582.400863738301,
+			"z": 0.07930480941424117,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -1647,6 +1697,90 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 33.50151824951172,
+			"y": 222.45550727844238,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:zqXJgRc0gwnKx4yInGqT7",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 550.001708984375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Regression.                  Classification"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "1) LinearRegression      1) LogisticRegreesion"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "     y = mx + c"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:_t3YpJ-PuIJUWVuchGXR3",
+			"index": "a36zJQBl",
+			"typeName": "shape"
+		},
+		{
 			"x": -99.4206482819979,
 			"y": 4190.844885101928,
 			"rotation": 0,
@@ -2072,11 +2206,9 @@
 			"typeName": "shape"
 		},
 		{
-			"editingShapeId": "shape:UbtICi1VFwI6Ec2hCB2jE",
+			"editingShapeId": null,
 			"croppingShapeId": null,
-			"selectedShapeIds": [
-				"shape:UbtICi1VFwI6Ec2hCB2jE"
-			],
+			"selectedShapeIds": [],
 			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
@@ -2116,6 +2248,13 @@
 			"parentId": "page:page",
 			"index": "b0IWoeOgV",
 			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "page:_t3YpJ-PuIJUWVuchGXR3",
+			"name": "Page 2",
+			"index": "a2WJFx5V",
+			"typeName": "page"
 		},
 		{
 			"x": 777.9668915301456,
@@ -2523,6 +2662,96 @@
 			},
 			"parentId": "page:page",
 			"index": "aulB4nUG",
+			"typeName": "shape"
+		},
+		{
+			"x": 323.95289555081627,
+			"y": 329.08526596316597,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:R4sx8T64PRjiVJDo8SFOJ",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 187.14907836914062,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "2) NaiveBayes"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "3) DecisionTree"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "4) Hirarichal"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "5) KNN"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "6) PCV"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:_t3YpJ-PuIJUWVuchGXR3",
+			"index": "a4XeIY8V",
 			"typeName": "shape"
 		},
 		{
@@ -3070,6 +3299,48 @@
 			},
 			"parentId": "page:page",
 			"index": "b1a2peLNV",
+			"typeName": "shape"
+		},
+		{
+			"x": 319.3413391113281,
+			"y": 84.28818702697754,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Er1O00orL66_paG4b1Mdo",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 37.3172721862793,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "ML"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:_t3YpJ-PuIJUWVuchGXR3",
+			"index": "a1Sen6lV",
 			"typeName": "shape"
 		},
 		{
@@ -5143,6 +5414,21 @@
 			"typeName": "shape"
 		},
 		{
+			"editingShapeId": "shape:R4sx8T64PRjiVJDo8SFOJ",
+			"croppingShapeId": null,
+			"selectedShapeIds": [
+				"shape:R4sx8T64PRjiVJDo8SFOJ"
+			],
+			"hoveredShapeId": "shape:R4sx8T64PRjiVJDo8SFOJ",
+			"erasingShapeIds": [],
+			"hintingShapeIds": [],
+			"focusedGroupId": null,
+			"meta": {},
+			"id": "instance_page_state:page:_t3YpJ-PuIJUWVuchGXR3",
+			"pageId": "page:_t3YpJ-PuIJUWVuchGXR3",
+			"typeName": "instance_page_state"
+		},
+		{
 			"x": 231.00367812793957,
 			"y": 4776.287610382437,
 			"rotation": 0,
@@ -5176,9 +5462,7 @@
 		{
 			"followingUserId": null,
 			"opacityForNextShape": 1,
-			"stylesForNextShape": {
-				"tldraw:geo": "rectangle"
-			},
+			"stylesForNextShape": {},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
@@ -5192,8 +5476,8 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 1422,
-				"h": 809
+				"w": 972.9166259765625,
+				"h": 527.0833129882812
 			},
 			"insets": [
 				false,
@@ -5208,7 +5492,7 @@
 			"isChatting": false,
 			"highlightedUserIds": [],
 			"isFocused": true,
-			"devicePixelRatio": 2,
+			"devicePixelRatio": 2.880000114440918,
 			"isCoarsePointer": false,
 			"isHoveringCanvas": true,
 			"openMenus": [],
@@ -5218,7 +5502,7 @@
 			"duplicateProps": null,
 			"cameraState": "idle",
 			"id": "instance:instance",
-			"currentPageId": "page:page",
+			"currentPageId": "page:_t3YpJ-PuIJUWVuchGXR3",
 			"typeName": "instance"
 		},
 		{
