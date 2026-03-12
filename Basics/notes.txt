@@ -1,0 +1,58 @@
+List
+****
+    collection of items
+    ordered
+    index based (starts with 0)
+    mutable (allows us to change)
+    allows duplicates
+    we will create List with the help of "[]"
+
+Graphs
+******
+    matplotlib is the library, used to draw Graphs
+    Ex.
+        Line Graph
+        Bar Chart
+        Pie Chart
+        Scatter Plot
+        Histogram
+        Subplot
+
+> python -m venv venv
+> source venv/bin/activate (Mac Book)
+       (or)
+  venv\Scripts\activate (windows)
+
+requirements.txt
+
+> pip install -r requirements.txt
+
+Seaborn
+*******
+    built on top of "matplotlib"
+    attractive Graphs
+    statistical plots
+    built-in datasets
+    Ex.
+        tips
+        fmri
+        --
+        --
+        --
+
+tuples
+    - orderdd
+    - immutable (won't allows)
+    - allows duplicates
+    - allows different data types
+    - indexed
+    - slicing
+    - iteration
+    - unpacking
+    - nesting also possible
+    - faster compared to lists
+
+
+
+
+
