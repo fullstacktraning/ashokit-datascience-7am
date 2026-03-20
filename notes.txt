@@ -71,3 +71,22 @@ MLOps
                 1) Docker
                 2) Docker Pipeline
                 3) GitServer
+
+Error = y(actual) - y(prediction)
+
+1) Bias Error
+2) Variance Error
+3) Noise
+
+
+Bias
+****
+   Model not trained Properly
+   High Training Error. (High Bias)
+   Bad Testing Results. (High Variance)
+
+Variance
+********
+  Good Training
+  Low Training Error (Low Bias)
+  Bad Testing Results (High Variance)
