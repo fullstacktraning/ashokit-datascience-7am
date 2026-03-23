@@ -1783,6 +1783,21 @@
 			"typeName": "shape"
 		},
 		{
+			"editingShapeId": "shape:aA4-3wFPhXwe0cHb45FCe",
+			"croppingShapeId": null,
+			"selectedShapeIds": [
+				"shape:aA4-3wFPhXwe0cHb45FCe"
+			],
+			"hoveredShapeId": "shape:aA4-3wFPhXwe0cHb45FCe",
+			"erasingShapeIds": [],
+			"hintingShapeIds": [],
+			"focusedGroupId": null,
+			"meta": {},
+			"id": "instance_page_state:page:NcD18ecI2POuQuwBxsHz5",
+			"pageId": "page:NcD18ecI2POuQuwBxsHz5",
+			"typeName": "instance_page_state"
+		},
+		{
 			"x": 922.5415122004466,
 			"y": 834.6066406376627,
 			"rotation": 0,
@@ -2744,6 +2759,48 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 278.0110510543543,
+			"y": 622.927506338668,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:eidmyENpQBO_AIUaZeWmo",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 50.755859375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "1+ e"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:NcD18ecI2POuQuwBxsHz5",
+			"index": "a3rIrGUG",
+			"typeName": "shape"
+		},
+		{
 			"meta": {},
 			"id": "binding:etfWGpsY513HQub47B7dI",
 			"type": "arrow",
@@ -2936,6 +2993,102 @@
 			},
 			"parentId": "page:XhsND7XoN-aBRLJy-HEqN",
 			"index": "b0ENKc4CV",
+			"typeName": "shape"
+		},
+		{
+			"x": 653.2497709790875,
+			"y": 687.5813525837899,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:VIAk0EPau3YMe6j60G_bK",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 277.220703125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Logistic Regreesion"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "0 - 1 (Probability)"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": ">0.5. (Class A) (True)"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "<=0.5 (Class B) (False)"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:NcD18ecI2POuQuwBxsHz5",
+			"index": "a6mjvOdV",
 			"typeName": "shape"
 		},
 		{
@@ -4962,6 +5115,14 @@
 			"typeName": "binding"
 		},
 		{
+			"x": 22.59030504807464,
+			"y": -3400.95677871224,
+			"z": 0.46308690407145797,
+			"meta": {},
+			"id": "camera:page:NcD18ecI2POuQuwBxsHz5",
+			"typeName": "camera"
+		},
+		{
 			"x": 106.3259506225586,
 			"y": 64.12217712402344,
 			"rotation": 0,
@@ -6324,6 +6485,48 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 815.2400541206883,
+			"y": 1549.2221033417097,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:U5A2zNOWIfiCRunXCRGqo",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 133.8667449951172,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Supervised"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:NcD18ecI2POuQuwBxsHz5",
+			"index": "a8P2oTnV",
+			"typeName": "shape"
+		},
+		{
 			"x": 1072.2656146897286,
 			"y": 1839.895685874587,
 			"rotation": 0,
@@ -6526,6 +6729,48 @@
 			},
 			"parentId": "page:XhsND7XoN-aBRLJy-HEqN",
 			"index": "any5IubV",
+			"typeName": "shape"
+		},
+		{
+			"x": 325.4068945602137,
+			"y": 599.9023140779258,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:ruNBWwvQwMiQk250X2ce3",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 95.12976837158203,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "-(wx+c)"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:NcD18ecI2POuQuwBxsHz5",
+			"index": "a4pd6mpV",
 			"typeName": "shape"
 		},
 		{
@@ -6854,10 +7099,8 @@
 		{
 			"editingShapeId": null,
 			"croppingShapeId": null,
-			"selectedShapeIds": [
-				"shape:U90Bvklv2-fA9WccRNFWj"
-			],
-			"hoveredShapeId": "shape:U90Bvklv2-fA9WccRNFWj",
+			"selectedShapeIds": [],
+			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -6960,6 +7203,37 @@
 			},
 			"parentId": "page:V4bkpBgc7pYe5x3Rb9oZB",
 			"index": "avYA2uMV",
+			"typeName": "shape"
+		},
+		{
+			"x": 272.07573306119025,
+			"y": 614.00822342546,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:MJHgAkQEtdE1C3305GT2y",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/ezgfpQAASD8AAAAACkQpsAAAvUYfuwAATEg9vgAAt0hSvwAABklIvwAA10jXvgAA8UfNvQAAykU9ugAAYUQAtAAAaUQAAAAAUkQAAAAA3EIfNQAALkIKOwAAKUJxPAAAs0FSPAAAUkF7OgAATUFIOQAAmkKFOQAAn0PXOQAA8ULDOQAAzUO4OAAAaURmNgAAH0TDMQAAlEMANAAAM0P2NAAAYUK4NgAAD0JmOAAAzUKPOAAAvUO4OAAA8UKPOAAABUFmNgAAXD8ANAAAmj4KMwAAHz9mLgAASD0AAAAA7DwAAAAAmj8AAAAAXD8AAAAAjzwAAAAACjsAAAAAezoAAAAAwzsAAAAAZjwAAAAAuDoAAAAA1zcAAAAAFDYAAAAAwzEAAAAA"
+					}
+				],
+				"color": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:NcD18ecI2POuQuwBxsHz5",
+			"index": "a24ce51V",
 			"typeName": "shape"
 		},
 		{
@@ -8963,6 +9237,66 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 452.4309671732747,
+			"y": 2696.086919902214,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:aZI79G7MTYD6_kLy4vzl8",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 154.60243225097656,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Underfitting"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "overfitting"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:NcD18ecI2POuQuwBxsHz5",
+			"index": "aBSfNxGV",
+			"typeName": "shape"
+		},
+		{
 			"x": -790.6548678716437,
 			"y": 2212.869723107565,
 			"rotation": 0,
@@ -10345,9 +10679,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": -430.84489734952007,
-			"y": -2271.122618547616,
-			"z": 0.5,
+			"x": 844.6068000553228,
+			"y": -2909.753161089014,
+			"z": 0.13264162659813422,
 			"meta": {},
 			"id": "camera:page:XhsND7XoN-aBRLJy-HEqN",
 			"typeName": "camera"
@@ -11083,6 +11417,48 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 1028.2533365774989,
+			"y": 1452.2897345492715,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:rp-cL3j0DanUlm381pNfO",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 222.8587188720703,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Machine Learning"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:NcD18ecI2POuQuwBxsHz5",
+			"index": "a7zQwVul",
+			"typeName": "shape"
+		},
+		{
 			"x": -3.016859885566305,
 			"y": 3926.37123646081,
 			"rotation": 0,
@@ -11241,6 +11617,366 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 718.3519320993923,
+			"y": 1648.7605852751435,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:QZ0VLZwUnDGza06uAWeiZ",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 1028.132080078125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Regreesion               Classification"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "=> Predict Continuos values.       => Yes / No"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t => Spam / Not Spam"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                                                 => 0 / 1"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "LinearRegreesion             1) Logistic Regreesion"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": " "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "y = mx + b                                 Sigmoid"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "m = slope                                       Small"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": " "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "b = intercept                                   Email --> Spam / Not Spam"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2) Naive Bayes"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "=> House                                 Gaussian Formula"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "=> Sales                                     =>. Realtime : Synonyms.      Free/Offer/Buy1 Get1"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "=> Salary                     3) DecisionTree"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                                                 1) Loan Approved"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                                                 2) Medical Diagnosis"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                                     4) RandomForest"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                                    5) KNN"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                                             Reviews"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                                             Recomendation"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                                    6) SVM"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                                            Image Classification (Face Auth) "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                                             "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:NcD18ecI2POuQuwBxsHz5",
+			"index": "a92VkTcV",
+			"typeName": "shape"
+		},
+		{
 			"x": 923.2475644857797,
 			"y": 314.51280528196577,
 			"rotation": 0,
@@ -11323,6 +12059,13 @@
 			"parentId": "page:V4bkpBgc7pYe5x3Rb9oZB",
 			"index": "abRY1K0V",
 			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "page:NcD18ecI2POuQuwBxsHz5",
+			"name": "Page 7",
+			"index": "a7DrHmXV",
+			"typeName": "page"
 		},
 		{
 			"x": 1168.4208733273495,
@@ -13159,6 +13902,66 @@
 			},
 			"parentId": "page:XhsND7XoN-aBRLJy-HEqN",
 			"index": "arewvYmV",
+			"typeName": "shape"
+		},
+		{
+			"x": 228.5264683575545,
+			"y": 695.3667130878691,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:ODcRM8V9_ocrNRwnhrBBf",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 225.5008544921875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Linear Regreesion"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "-ve to +ve"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:NcD18ecI2POuQuwBxsHz5",
+			"index": "a5wTWpJV",
 			"typeName": "shape"
 		},
 		{
@@ -15442,15 +16245,11 @@
 		{
 			"followingUserId": null,
 			"opacityForNextShape": 1,
-			"stylesForNextShape": {
-				"tldraw:geo": "ellipse",
-				"tldraw:color": "black",
-				"tldraw:dash": "solid"
-			},
+			"stylesForNextShape": {},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
-				"type": "cross",
+				"type": "default",
 				"rotation": 0
 			},
 			"isFocusMode": false,
@@ -15460,8 +16259,8 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 615.1620483398438,
-				"h": 377.8935241699219
+				"w": 972.9166259765625,
+				"h": 527.0833129882812
 			},
 			"insets": [
 				false,
@@ -15476,7 +16275,7 @@
 			"isChatting": false,
 			"highlightedUserIds": [],
 			"isFocused": true,
-			"devicePixelRatio": 3.4560000896453857,
+			"devicePixelRatio": 2.880000114440918,
 			"isCoarsePointer": false,
 			"isHoveringCanvas": true,
 			"openMenus": [],
@@ -15486,7 +16285,7 @@
 			"duplicateProps": null,
 			"cameraState": "idle",
 			"id": "instance:instance",
-			"currentPageId": "page:XhsND7XoN-aBRLJy-HEqN",
+			"currentPageId": "page:NcD18ecI2POuQuwBxsHz5",
 			"typeName": "instance"
 		},
 		{
@@ -16633,6 +17432,246 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 549.6587898030081,
+			"y": 3517.9397866946215,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:aA4-3wFPhXwe0cHb45FCe",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 884.3712768554688,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Unsupervised Learning"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Model - Features"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "model - Labels"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "model.fit(X)"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "1) Clustering Algorithm"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "      K - Means Clustring"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "      Hierarchical Clusteing"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "2) DBSCAN (Density - Based)"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "3) Dimensionality Reduction"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "         PCA. (Principal Component Analysis).   10Features --->. 2Features"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "         t-SNE"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "         Association Rule Learning"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Running.   FootBall.   Cricket.  BaseBall --->. Sports Performa"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:NcD18ecI2POuQuwBxsHz5",
+			"index": "aCXGVUhG",
+			"typeName": "shape"
+		},
+		{
 			"x": 807.4978184920774,
 			"y": 74.60936672268085,
 			"rotation": 0,
@@ -17085,6 +18124,287 @@
 			"typeName": "binding"
 		},
 		{
+			"x": 230.42008250336693,
+			"y": 2641.9842017436367,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:c4tmGUUz_4pQDnxzfpt9d",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 509.8541564941406,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Errors"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Bias"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Variance"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Noise"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Techniques for Overfitting"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "-------------"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Gradient Decent -->. m & b"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                                 (slope).  (intercept)"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Accuracy"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Precision"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Confusion Matrix"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Recall"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "F1 Score"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "highlight"
+										}
+									],
+									"text": "train_test_split"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						}
+					]
+				}
+			},
+			"parentId": "page:NcD18ecI2POuQuwBxsHz5",
+			"index": "aAUgvNNl",
+			"typeName": "shape"
+		},
+		{
 			"x": 664.4422607421875,
 			"y": 189.57789611816406,
 			"rotation": 0,
@@ -17422,6 +18742,241 @@
 			},
 			"parentId": "page:KsmCVi1BShu3X75NjxUSm",
 			"index": "aKrjk0lV",
+			"typeName": "shape"
+		},
+		{
+			"x": 303.7272033691406,
+			"y": 52.59331703186035,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:EenL2g5hO7FRAConu6usp",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 425.99456787109375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Logistic Regression"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "********************"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "True / False"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "1 / 0"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Yes / No"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Ex."
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "      Spam / No Spam. (Small)"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "      Student Performance Analysis"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "      ---"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "      ---"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "      ---"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "highlight"
+										}
+									],
+									"text": "Sigmoid"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "highlight"
+										}
+									],
+									"text": "Linear Regreesion"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "highlight"
+										}
+									],
+									"text": "1"
+								},
+								{
+									"type": "text",
+									"text": " "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:NcD18ecI2POuQuwBxsHz5",
+			"index": "a1PIvvpV",
 			"typeName": "shape"
 		},
 		{
