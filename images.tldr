@@ -193,6 +193,48 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 1.9921875,
+			"y": 1010.73046875,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:y_d7UNFXwet8ZB-2LdvOM",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 47.7578125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "S = "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:GXd3VOC34qaCpkrujS_2B",
+			"index": "a5OeLUll",
+			"typeName": "shape"
+		},
+		{
 			"x": 1077.6328125,
 			"y": 128.5234375,
 			"rotation": 0,
@@ -570,6 +612,60 @@
 			},
 			"parentId": "page:page",
 			"index": "b02kCbT1V",
+			"typeName": "shape"
+		},
+		{
+			"x": -96.7421875,
+			"y": 1330.69140625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:aptgzIFdA46SVgcFdg8G_",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 290.015625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Step 3."
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                Eigen Values"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:GXd3VOC34qaCpkrujS_2B",
+			"index": "aCfVBZ1V",
 			"typeName": "shape"
 		},
 		{
@@ -1698,6 +1794,21 @@
 			"typeName": "shape"
 		},
 		{
+			"editingShapeId": "shape:muxR-8HpoLEst49IXW9Q-",
+			"croppingShapeId": null,
+			"selectedShapeIds": [
+				"shape:muxR-8HpoLEst49IXW9Q-"
+			],
+			"hoveredShapeId": null,
+			"erasingShapeIds": [],
+			"hintingShapeIds": [],
+			"focusedGroupId": null,
+			"meta": {},
+			"id": "instance_page_state:page:GXd3VOC34qaCpkrujS_2B",
+			"pageId": "page:GXd3VOC34qaCpkrujS_2B",
+			"typeName": "instance_page_state"
+		},
+		{
 			"x": -149.11459590991694,
 			"y": 2226.940004116977,
 			"rotation": 0,
@@ -1783,12 +1894,10 @@
 			"typeName": "shape"
 		},
 		{
-			"editingShapeId": "shape:aA4-3wFPhXwe0cHb45FCe",
+			"editingShapeId": null,
 			"croppingShapeId": null,
-			"selectedShapeIds": [
-				"shape:aA4-3wFPhXwe0cHb45FCe"
-			],
-			"hoveredShapeId": "shape:aA4-3wFPhXwe0cHb45FCe",
+			"selectedShapeIds": [],
+			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -3326,6 +3435,72 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 111.78125,
+			"y": 950.65234375,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:6_j8QC2HSVVvx4NVy1HoD",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 335.6328125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Cov(X1 x1)           Cov(X1 X2)"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Cov(X2 X1)         Cov(X2 X2)"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:GXd3VOC34qaCpkrujS_2B",
+			"index": "a7VLn9dV",
+			"typeName": "shape"
+		},
+		{
 			"x": 702.3373181354968,
 			"y": 4661.669109550232,
 			"rotation": 0,
@@ -4818,6 +4993,48 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 103.921875,
+			"y": 1228.69140625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:r_PMHhgJN1YdwiEJkjvif",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 26.0390625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "= "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:GXd3VOC34qaCpkrujS_2B",
+			"index": "aAyoCUPG",
+			"typeName": "shape"
+		},
+		{
 			"x": 688.5085494172046,
 			"y": 3659.412633872109,
 			"rotation": 0,
@@ -5097,6 +5314,14 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 327,
+			"y": -1706,
+			"z": 1,
+			"meta": {},
+			"id": "camera:page:GXd3VOC34qaCpkrujS_2B",
+			"typeName": "camera"
+		},
+		{
 			"meta": {},
 			"id": "binding:-MeTVunYSNd6Ix_jayewi",
 			"type": "arrow",
@@ -5115,9 +5340,9 @@
 			"typeName": "binding"
 		},
 		{
-			"x": 22.59030504807464,
-			"y": -3400.95677871224,
-			"z": 0.46308690407145797,
+			"x": 8888.032071815325,
+			"y": 1104.978865039208,
+			"z": 0.05528812888842449,
 			"meta": {},
 			"id": "camera:page:NcD18ecI2POuQuwBxsHz5",
 			"typeName": "camera"
@@ -6074,6 +6299,60 @@
 			"typeName": "binding"
 		},
 		{
+			"x": 95.390625,
+			"y": 448.30859375,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:zZ-cxSVDE1zKQhPsNexng",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 234.0703125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "x1.    4.   8.  13.  7"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "x2.   11.   4.   5.  14 "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:GXd3VOC34qaCpkrujS_2B",
+			"index": "a3sHS9DV",
+			"typeName": "shape"
+		},
+		{
 			"x": 602.802487765112,
 			"y": 3700.091329994021,
 			"rotation": 0,
@@ -6396,6 +6675,78 @@
 			},
 			"parentId": "page:page",
 			"index": "aulB4nUG",
+			"typeName": "shape"
+		},
+		{
+			"x": 134.515625,
+			"y": 258.41015625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:CY3ZEP6oLkunAy0KDPjZ-",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 1133.828125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Ex."
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t\t\t\tWeight.  Height.     Maths. Social  Science Physics.  Running Rewards. Cricket Rewards"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "        Physical Info             Academics         Sports (Prinicipal Component)"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:GXd3VOC34qaCpkrujS_2B",
+			"index": "a2zubPPl",
 			"typeName": "shape"
 		},
 		{
@@ -7485,6 +7836,156 @@
 			},
 			"parentId": "page:c4YvPWX7ghI_cTNiI7ej0",
 			"index": "a5LdejcV",
+			"typeName": "shape"
+		},
+		{
+			"x": -48.7578125,
+			"y": 1770.98046875,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:muxR-8HpoLEst49IXW9Q-",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 258.859375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "1) MEAN"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "2) Covariance Matrix"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "3) Eigen Values"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "4) Eigen Vectors"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "5) Unit Eigen Vector"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "6) e1 & e2"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "7) PCA"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:GXd3VOC34qaCpkrujS_2B",
+			"index": "aDn4dIzl",
 			"typeName": "shape"
 		},
 		{
@@ -11121,6 +11622,150 @@
 			"typeName": "shape"
 		},
 		{
+			"x": -6.640625,
+			"y": 570.2890625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:rs-YsjwTJGYYBfQGqWdFm",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 415.390625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Step 1."
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t\t\t\tfind the mean"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "       _"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t\t\t X1 = 4 + 8 + 13 + 7 / 4 = 8"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "       _"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "       X2 = 11 + 4 + 5 + 15 / 4 = 8.5"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Step 2."
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t\t\t\tVariance matrix"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:GXd3VOC34qaCpkrujS_2B",
+			"index": "a43uKj5V",
+			"typeName": "shape"
+		},
+		{
 			"x": 1439.0823783753176,
 			"y": 1897.6326980897531,
 			"rotation": 0,
@@ -11974,6 +12619,37 @@
 			},
 			"parentId": "page:NcD18ecI2POuQuwBxsHz5",
 			"index": "a92VkTcV",
+			"typeName": "shape"
+		},
+		{
+			"x": 462.671875,
+			"y": 939.7578125,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:dtBult2E-Y-q3wB3-H0Xt",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/cTUAAAAArjsAAAAA5kAAAAAA9kIAAAAAKUIAAAAAKUIUMgAAqUJmNgAAqUJmNgAAn0LXNwAA9kFSOAAAlEB7OAAAwz97OAAAFD+uNwAAzT0KNwAA9jxxNQAAHzt7MAAAwzl7MAAACjl7MAAA7DUAAAAAwzEKLwAAAABcMwAAAABcMwAAAAAUNgAAAAApOAAAUjSaOQAAjzYfPAAASDXsPAAAmjVxPgAACjeAQAAAPThhQQAACjdhQgAAUjRhQwAAHy1zRAAAAABsRQAAAABzRgAAAACkRwAAAAB4SAAAAAAMSQAAAADaSAAAAACBSAAArrOSRwAAcbkhRgAA4bqkRQAAPbghRAAACq9IQQAAAAAKPwAAAABxOQAAAAAKLwAAAACuqwAAAAAKtwAAAABmtgAAAABStAAAAAApNAAAAADsPQAA7DX2QgAASD4uRQAAOEAzRQAAZj8DRQAAmj7zRAAA1zxsRAAAcTsaQwAAADpDQQAAhTdSPwAAzTQpPQAAFDI9PAAAcTEUOgAAADRmOAAAKTBSOAAAKTA9OAAAKTQ9OAAAwzGFOQAAKTSFOQAAuDaFOQAAmjWFOQAAXDPXNwAAHzE9NgAArisANAAAzbS4MgAAmr4zNwAAKcMzOwAAisUUPQAAlMZcPQAA8cVSPAAAO8W4OgAAYcRSOgAAn8GaOQAAhb6uNwAAM7sfMQAAKbgAAAAA"
+					}
+				],
+				"color": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:GXd3VOC34qaCpkrujS_2B",
+			"index": "a82P25wV",
 			"typeName": "shape"
 		},
 		{
@@ -12876,6 +13552,13 @@
 			"parentId": "page:c4YvPWX7ghI_cTNiI7ej0",
 			"index": "aJG9yroV",
 			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "page:GXd3VOC34qaCpkrujS_2B",
+			"name": "PCA",
+			"index": "a8910L0V",
+			"typeName": "page"
 		},
 		{
 			"x": 64.7851085742002,
@@ -16259,8 +16942,8 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 972.9166259765625,
-				"h": 527.0833129882812
+				"w": 1392,
+				"h": 737
 			},
 			"insets": [
 				false,
@@ -16275,7 +16958,7 @@
 			"isChatting": false,
 			"highlightedUserIds": [],
 			"isFocused": true,
-			"devicePixelRatio": 2.880000114440918,
+			"devicePixelRatio": 2,
 			"isCoarsePointer": false,
 			"isHoveringCanvas": true,
 			"openMenus": [],
@@ -16285,7 +16968,7 @@
 			"duplicateProps": null,
 			"cameraState": "idle",
 			"id": "instance:instance",
-			"currentPageId": "page:NcD18ecI2POuQuwBxsHz5",
+			"currentPageId": "page:GXd3VOC34qaCpkrujS_2B",
 			"typeName": "instance"
 		},
 		{
@@ -16714,6 +17397,37 @@
 				"terminal": "end"
 			},
 			"typeName": "binding"
+		},
+		{
+			"x": 95.3359375,
+			"y": 962.375,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:qy17olqHPkAdMNw3NMcj6",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/cbUAAAAAUr0AAAAAhb8AAAAAFL8AAAAApL4AAAAAXL4AAAAAzb0AAAAACr0AAAAAw7wAAAAAe70AAAAAe717sAAAw7yktAAApLwfsQAAzbopsAAAKbiurwAAcbUKLwAACq8KMwAAH6EKMwAAH6HsNQAAAABcOQAAAADNPAAAAADXPwAAAADDQAAAAABSQAAAAAAzQAAAAADhPwAAAACPPgAAAACkPgAAAAAUPwAAAABsQAAAcTF2QQAAXDc4QQAAXDfhQAAAcTVsQAAAwzEKPwAAHzE9PgAApDSPPQAAezB7PQAAAACaPQAAAAB7PQAAAAD2PQAAAABxPQAAAAB7PQAAAAB7PQAAAABIPQAAAADXPAAAAABIPAAAAAAfPAAAAAD2OgAAAADhOgAAAAC4OgAAAABxOQAAAAA9OAAAAACFNwAAAAD2NAAAAACuMwAAAACuJwAAAAA9tgAAAAB7uAAAAAB7uAAAAABSuAAAAABSuAAAAABSuAAAAABmtgAAAABStAAAw60AtAAArq/NNAAAH6W4PgAAH6HmQwAAAABkRQAAAADKRQAArq+4RQAAZrKsRAAAH62FQwAAAADNQgAAAACKQgAAAAAfQgAAAAC4QQAAAAAzQQAAAABcQAAAAABSQAAAAABSQAAAAABSQAAAriu4QAAAHzH7QAAArjP7QAAAHzH2QAAAAAA4QQAAAAB7QQAAAAC4QQAAAADDQQAAAACfQQAAAAAzQQAAAADsPwAAAAAAPgAAAACFPAAAAADNOgAAAACFOQAAAAA9OAAAAAA9OgAAAADsPAAAAADDPgAAAADNPwAAAABmPgAAAABIPAAAAADhOgAAAABxOQAAAAAKNwAAAACaNQAAZi7DMQAAXDMAAAAAuDgAAAAAwz4fJQAAM0LDNQAAM0OaNQAAQ0MAAAAAbEMAAAAA7EIAAAAAn0IAAAAAKUIAAAAAqUEAAAAApEFxsQAA4UDDsQAAMz8AAAAAzTwAAAAAwzkAAAAAjzgAAAAA"
+					}
+				],
+				"color": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:GXd3VOC34qaCpkrujS_2B",
+			"index": "a6Ztxzxl",
+			"typeName": "shape"
 		},
 		{
 			"x": 824.0379377183101,
@@ -18004,6 +18718,66 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 195.8515625,
+			"y": 1185.12890625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:bTWmW0oa79xW8mxPjxPOD",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 102.7890625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "14.   -11"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "-11.    23"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:GXd3VOC34qaCpkrujS_2B",
+			"index": "aB7P5BCV",
+			"typeName": "shape"
+		},
+		{
 			"x": 120.16239670201344,
 			"y": 37.272135529702894,
 			"rotation": 0,
@@ -19083,6 +19857,90 @@
 			},
 			"parentId": "page:KsmCVi1BShu3X75NjxUSm",
 			"index": "aHoQ8hJV",
+			"typeName": "shape"
+		},
+		{
+			"x": 507.2578125,
+			"y": 93.14453125,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:JnIjqsGvmyRtY1zW0xi9h",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 361.125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "PCA"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "****"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Principal Component Analysis"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Reduce Dimensions"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:GXd3VOC34qaCpkrujS_2B",
+			"index": "a1PicB5V",
 			"typeName": "shape"
 		},
 		{
