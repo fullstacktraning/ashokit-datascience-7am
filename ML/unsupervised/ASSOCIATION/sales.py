@@ -1,5 +1,11 @@
+# pandas used to manipulate tabular data
 import pandas as pd
+
+# TransactionEncoder, used to convert transactions data to True/Flase (or) 0/1
 from mlxtend.preprocessing import TransactionEncoder
+
+# apriori --> used to know frequency
+# association_rules forms the rules
 from mlxtend.frequent_patterns import apriori, association_rules
 
 # Step 1: Dataset
@@ -16,13 +22,13 @@ te = TransactionEncoder()
 te_data = te.fit(transactions).transform(transactions)
 df = pd.DataFrame(te_data, columns=te.columns_)
 
-print("Dataset:\n", df)
+# print("Dataset:\n", df)
 
 # Step 3: Apply Apriori
 frequent_items = apriori(df, min_support=0.6, use_colnames=True)
-print("\nFrequent Itemsets:\n", frequent_items)
+#print("\nFrequent Itemsets:\n", frequent_items)
 
-# Step 4: Generate Rules
+# # Step 4: Generate Rules
 rules = association_rules(frequent_items, metric="confidence", min_threshold=0.7)
 
 print("\nAssociation Rules:\n", rules)
