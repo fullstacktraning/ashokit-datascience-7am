@@ -1,8 +1,6 @@
 import numpy as np
-
 # Q-table (4 states)
 Q = np.zeros((4,4))
-
 # Reward matrix
 R = np.array([
     [-1, 0, 0, -1],
@@ -10,10 +8,8 @@ R = np.array([
     [-1, -1, -1, 100],
     [-1, -1, -1, 100]
 ])
-
 gamma = 0.9
 alpha = 0.1
-
 print(R)
 print("--------------")
 for episode in range(1000):
@@ -30,6 +26,5 @@ for episode in range(1000):
         )
         
         state = next_state
-
 print("Q-table:")
 print(Q)
