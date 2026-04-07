@@ -6,3 +6,4 @@ fastapi
 uvicorn
 openpyxl
 mlxtend
+tensorflow
